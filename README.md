@@ -12,5 +12,5 @@ pip install pypdf2
 ### Usgae
 
 ```
-python extractPdf.py yourfile.pdf output
+python xpdfextractor.py yourfile.pdf output
 ```
